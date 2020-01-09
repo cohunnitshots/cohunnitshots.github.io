@@ -1,0 +1,12 @@
+<script>
+
+let ihop = 3;
+let mcdonalds = 5.25;
+let popeyes = 3.50
+
+document.write("Ihop pancakes; " + wendys);
+document.write("Mcdonalds burgers; " + mcdonalds);
+document.write("Popeyes chicken; " + popeyes);
+
+
+</script>
